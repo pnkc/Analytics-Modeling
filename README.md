@@ -3,6 +3,7 @@ This course introduced fundamental machine learning models used in analytics, cr
 
 Modeling topics covered in the assignemnts and the project included the following: <br />
 •	Classification <br />
+•	Regression<br />
 •	Clustering<br />
 •	Change detection<br />
 •	Time series models<br />
